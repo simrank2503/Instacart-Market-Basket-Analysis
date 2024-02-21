@@ -48,7 +48,7 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
   - Health Enthusiasts
   - Snack Lovers
   - Veggie Lovers
-  - Diary Enthusiasts
+  - Dairy Enthusiasts
   - Balanced Shoppers   
 - Same Brand Same Product Different Flavour
    - Based on the market basket analysis the key finding was that customers have a higher probability of buying the same brand's same product but of a different flavour
